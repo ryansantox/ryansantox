@@ -27,6 +27,4 @@
   <a><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank"></a> 
   <a><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/ryansantox/ryansantox/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
